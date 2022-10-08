@@ -1,4 +1,4 @@
-<h1 align="center">Hello World, I'm Amar Hasečić</h1>
+<h1 align="center">Hi, I'm Amar Hasečić</h1>
 
 
 <p> I am a student at Faculty of Electrical Engineering in Sarajevo. </p>
