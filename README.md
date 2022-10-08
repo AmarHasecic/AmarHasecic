@@ -15,6 +15,7 @@
 <img align="left" alt="Linux" title="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 <img align="left" alt="GitHub" title="Github" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" /></p>
 <br>
+
 ---
 
 ![Amar's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarhasecic&theme=onedark&show_icons=true)
