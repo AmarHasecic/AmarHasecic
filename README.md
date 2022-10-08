@@ -12,8 +12,4 @@
 ---
 
 ![Amar's GitHub stats](https://github-readme-stats.vercel.app/api?username=amarhasecic&theme=onedark&show_icons=true)
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=amarhasecic&show_icons=true&locale=en&layout=compact" alt="amarhasecic" />
 
-&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=amarhasecic&show_icons=true&locale=en" alt="amarhasecic" />
-
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=amarhasecic&" alt="amarhasecic" /></p>
