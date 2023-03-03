@@ -2,7 +2,6 @@
 
 
 <p> I am a student at Faculty of Electrical Engineering in Sarajevo. </p>
-<p>Progress: [75%] [###########################################################################.........................]</p>
 
 ---
 
