@@ -4,9 +4,12 @@
 
 Hello, I'm Amar Hasecic 👋
 
-🎓 I hold a Bachelor's degree in Electrical Engineering from the University of Sarajevo.<\br>
-🚀 I'm  passionate about software development, and my focus lies in creating Android applications using Android Jetpack Compose framework.<\br>
-📫 Feel free to reach out if you want to collaborate, discuss tech trends, or simply have a chat. Let's connect and build something amazing together!<\br>
+🎓 I hold a Bachelor's degree in Electrical Engineering from the University of Sarajevo.
+
+🚀 I'm  passionate about software development, and my focus lies in creating Android applications using Android Jetpack Compose framework.
+
+📫 Feel free to reach out if you want to collaborate, discuss tech trends, or simply have a chat. Let's connect and build something amazing together!
+
 
 Happy coding! 🚀
 
