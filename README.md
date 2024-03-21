@@ -11,7 +11,7 @@ Hello, I'm Amar Hasecic 👋
 📫 Feel free to reach out if you want to collaborate, discuss tech trends, or simply have a chat. Let's connect and build something amazing together!
 
 
-Happy coding! 🚀
+Happy coding! 
 
 </p>
 
