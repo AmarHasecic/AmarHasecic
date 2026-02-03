@@ -4,7 +4,7 @@
 
 Hello, I'm Amar Hasecic 👋
 
-🎓 I hold a Bachelor's degree in Electrical Engineering from the University of Sarajevo.
+🎓 I hold a Master's degree in Electrical Engineering from the University of Sarajevo.
 
 🚀 I'm  passionate about software development, and my focus lies in creating Android applications using Android Jetpack Compose framework.
 
